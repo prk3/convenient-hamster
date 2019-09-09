@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/przemek/.platformio/penv/bin:/home/przemek/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/home/przemek/bin:/home/przemek/.local/bin:/home/przemek/.cargo/bin:/home/przemek/DEV/raspberrypi-tools/arm-bcm2708/arm\n-linux-gnueabihf/bin:/home/przemek/.config/composer/vendor/bin:/usr/share/gems:/home/przemek/go/bin:/home/przemek/Android/Sdk/build-tools:/usr/local/sbin:/usr/sbin:/home/przemek/.composer/vendor/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
